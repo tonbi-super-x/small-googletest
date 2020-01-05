@@ -1,0 +1,58 @@
+フォルダー パスの一覧
+ボリューム シリアル番号は 4FAE-3350 です
+C:.
+│  a.exe
+│  allFile.txt
+│  CMakeLists.txt
+│  hello.cpp
+│  hello.hpp
+│  main.cpp
+│  Makefile
+│  README.md
+│  
+├─googletest
+│  │  libgtest.a
+│  │  libgtest_main.a
+│  │  
+│  └─include
+│      └─gtest
+│          │  gtest-death-test.h
+│          │  gtest-message.h
+│          │  gtest-param-test.h
+│          │  gtest-param-test.h.pump
+│          │  gtest-printers.h
+│          │  gtest-spi.h
+│          │  gtest-test-part.h
+│          │  gtest-typed-test.h
+│          │  gtest.h
+│          │  gtest_pred_impl.h
+│          │  gtest_prod.h
+│          │  
+│          └─internal
+│              │  gtest-death-test-internal.h
+│              │  gtest-filepath.h
+│              │  gtest-internal.h
+│              │  gtest-linked_ptr.h
+│              │  gtest-param-util-generated.h
+│              │  gtest-param-util-generated.h.pump
+│              │  gtest-param-util.h
+│              │  gtest-port-arch.h
+│              │  gtest-port.h
+│              │  gtest-string.h
+│              │  gtest-tuple.h
+│              │  gtest-tuple.h.pump
+│              │  gtest-type-util.h
+│              │  gtest-type-util.h.pump
+│              │  
+│              └─custom
+│                      gtest-port.h
+│                      gtest-printers.h
+│                      gtest.h
+│                      README.md
+│                      
+├─src
+│      example.cpp
+│      
+└─test
+        example_test.cpp
+        
